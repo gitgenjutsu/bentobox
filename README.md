@@ -2,6 +2,7 @@
 
 BentoBox is a modern food ordering UI built with **React + Vite**, styled with **Tailwind CSS**, and powered by **Zustand** for global state management.  
 The project supports **multi-language (EN/JA)** switching and includes features commonly found in production-level food delivery apps.
+🔗 **Live Demo:** [bentobox-blush.vercel.app](https://bentobox-blush.vercel.app/)
 
 ![alt text](image.png)
 
