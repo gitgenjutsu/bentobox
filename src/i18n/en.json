@@ -1,0 +1,27 @@
+{
+  "japenese": "Japanese",  
+  "our": "Our",
+  "menu": "Menu",
+  "home": "Home",
+  "your_cart": "Your Cart",
+  "checkout": "Checkout",
+  "order_now": "Order Now",
+  "remove": "Remove",
+  "popular_dishes": "Popular Dishes",
+  "view_menu": "View Menu",
+  "see_full_menu": "See Full Menu",
+  "add_to_cart": "Add to Cart",
+  "search_for_a_dish": "Search for a dish...",
+  "total": "Total",
+  "go_to_checkout": "Go to Checkout",
+  "proceed_to_payment": "Proceed to Payment",
+  "your_cart_empty": "Your cart is empty",
+  "features": {
+    "fast": "Fast Delivery",
+    "authentic": "Authentic Recipes",
+    "fresh": "Fresh Ingredients"
+  },
+  "hero_title": "Order Fresh Bento to Your Doorstep 🍱",
+  "hero_subtitle": "Taste authentic Japanese meals delivered with love & speed.",
+  "footer_copyright": "2025 BentoBox. All rights reserved."
+}

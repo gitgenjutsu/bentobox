@@ -1,0 +1,27 @@
+{
+  "japenese": "日本語",
+  "our": "私たちの",
+  "menu": "メニュー",
+  "home": "ホーム",
+  "your_cart": "あなたのカート",
+  "checkout": "チェックアウト",
+  "order_now": "今すぐ注文",
+  "remove": "削除",
+  "popular_dishes": "人気の料理",
+  "view_menu": "メニューを見る",
+  "see_full_menu": "すべてのメニューを見る",
+  "add_to_cart": "カートに追加",
+  "search_for_a_dish": "料理を検索...",
+  "total": "合計",
+  "go_to_checkout": "チェックアウトへ進む",
+  "proceed_to_payment": "お支払いに進む",
+  "your_cart_empty": "カートに商品がありません",
+  "features": {
+    "fast": "迅速な配達",
+    "authentic": "本格的なレシピ",
+    "fresh": "新鮮な食材"
+  },
+  "hero_title": "新鮮なお弁当をご自宅までお届け 🍱",
+  "hero_subtitle": "愛とスピードを込めて、本格的な日本食をお届けします。",
+  "footer_copyright": "2025 BentoBox。全著作権所有。"
+}
